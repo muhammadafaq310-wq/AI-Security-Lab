@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "role": "administrator",
+            "access_level": 5,
+            "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"
+        },
+        {
+            "username": "student",
+            "role": "student",
+            "access_level": 1,
+            "password": "703b0a3d6ad75b649a28adde7d83c6251da457549263bc7ff45ec709b0a8448b"
+        },
+        {
+            "username": "analyst",
+            "role": "security_analyst",
+            "access_level": 3,
+            "password": "20249749412d73a3f5799f6f1dcf910e7b4aa3ce4de133b1f8a63c044792a4e9"
+        }
+    ]
+}
